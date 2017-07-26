@@ -7,3 +7,4 @@
 # learn git rebase
 # add 1st line
 # add 2nd line
+# add 3rd
